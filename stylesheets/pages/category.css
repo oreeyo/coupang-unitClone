@@ -231,7 +231,7 @@ button.active {
   font-size: 14px;
   line-height: 16.8px;
   color: var(--color-gray-700);
-  background: url("/assets/icon/angle-right-default.svg") no-repeat;
+  background: url("/coupang-unitClone/assets/icon/angle-right-default.svg") no-repeat;
   background-position: 56px 5px;
 }
 
